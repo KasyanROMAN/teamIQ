@@ -8,4 +8,6 @@ class person:
         return self.name
     def ret_age(self):
         return self.age
-    
+    def typ(self):
+        print(type(self.age),type(self.name))
+        
