@@ -10,4 +10,8 @@ class person:
         return self.age
     def typ(self):
         print(type(self.age),type(self.name))
+
+    def range_number(self):
+        for i in range(10,20):
+            print(i)
         
