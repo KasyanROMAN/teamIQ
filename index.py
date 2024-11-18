@@ -14,4 +14,9 @@ class person:
     def range_number(self):
         for i in range(10,20):
             print(i)
-        
+e=person()
+e.get()
+e.ret_name()
+e.ret_age()
+e.typ()
+e.range_number()
