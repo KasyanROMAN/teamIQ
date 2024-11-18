@@ -1,3 +1,4 @@
-print('Hello')
-a=12
-print(a)
+class person:
+    name='Kiril'
+    age=12
+    
