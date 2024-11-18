@@ -4,5 +4,8 @@ class person:
     
     def get(self):
         print(self.name,self.age)
-    def ret(self):
+    def ret_name(self):
         return self.name
+    def ret_age(self):
+        return self.age
+    
